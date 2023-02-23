@@ -1,3 +1,6 @@
 This document is a test text for IoT Device Programming 3 (2023).
 
 学生です。ブラウザで修正をしてみました。
+
+教員での作業として、VSCodeで修正した。
+この後、コマンドラインでpush等をする予定。
